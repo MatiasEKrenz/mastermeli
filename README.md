@@ -15,7 +15,7 @@ version de prueba
 
 Nombre del compañero | Enlace completo
 -------------------- | ---------------
-Matías Krenz | github.com/MatiasEKrenz
-Matìas Torreblanca | github.com/matias3981
+Federico Torres | github.com/fedtorres
+Matias Torreblanca | github.com/matias3981
 
 
