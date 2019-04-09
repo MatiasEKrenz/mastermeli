@@ -13,6 +13,9 @@ version de prueba
 ##Notas importantes
 - sapeee
 
-
+Nombre del compañero | Enlace completo
+-------------------- | ---------------
+Matías Krenz | github.com/MatiasEKrenz
+Matìas Torreblanca | github.com/matias3981
 
 
