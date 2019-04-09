@@ -1,2 +1,4 @@
-HOLA222
+<<<<<<< HEAD
+ADIOS
+>>>>>>> V.0.2
 archico de prueba
